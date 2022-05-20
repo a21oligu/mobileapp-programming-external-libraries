@@ -3,7 +3,7 @@
 
 Denna inlämning gick ut på att hämta och använda ett externt bibliotek. I denna app används biblioteket Glide, som underlättar hämtning och lagring av bilder för på ett smidigt och responsivt sätt ladda in bilder. 
 
-För att hämta biblioteket lades följande kodrad till i dependency objektet i filen *app/build.gradle*:
+För att hämta biblioteket lades följande kodrad till i dependencies objektet i filen *app/build.gradle*:
 
 ```gradle
 implementation 'com.github.bumptech.glide:glide:4.3.1'
